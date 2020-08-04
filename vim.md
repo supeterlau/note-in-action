@@ -56,6 +56,8 @@ iterm2 shortcut not work
 
 https://stackoverflow.com/questions/1236563/how-do-i-run-a-terminal-inside-of-vim
 
+vertical terminal (vert term)
+
 ## mouse
 
 set mouse=a
@@ -89,6 +91,11 @@ Firefox binary not found: /Applications/Firefox.app/Contents/MacOS/firefox
 ./browsh --firefox.path "/Applications/Firefox Nightly.app/Contents/MacOS/firefox"
 
 ./browsh --firefox.path /Applications/Firefox\ Nightly.app/Contents/MacOS/firefox
+
+## run code
+
+run code in split window
+save current file, after running code, turn to insert mode
 
 ## Plugins
 

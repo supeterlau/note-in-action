@@ -19,7 +19,12 @@ Run Redis client:
     docker run --rm -it --link redis-dev:redis redis:alpine redis-cli -h redis -n 9
 
 Run MongoDB server:
+
+    docker run --name mongo-dev -v $HOME/Database/docker-mongo/data/db:/data/db -d mongo:4.2.8-bionic
+
 Run MongoDB client:
+
+    docker run -it --link mongo-dev:mongo --rm mongo:4.2.8-bionic mongo --host mongo test
 
 docker system prune
 https://docs.docker.com/engine/reference/commandline/system_prune/
