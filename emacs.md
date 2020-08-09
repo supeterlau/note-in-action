@@ -26,7 +26,10 @@ Or, if you don't want/need a background service you can just run:
 
 ### erlang
 
-
+https://medium.com/swlh/installing-and-configuring-emacs-development-on-linux-378414a06bbc
+https://www.lambdacat.com/post-modern-emacs-setup-for-erlang/
+https://gist.github.com/jaseemabid/75f5607304a8186ba228
+https://github.com/massemanet/distel
 
 ### mail
 

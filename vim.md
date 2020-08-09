@@ -44,6 +44,8 @@ set helplang=cn
 
 ## copy paste cut with system clipboard
 
+https://www.rockyourcode.com/til-paste-from-system-clipboard-into-vim-in-insert-mode/
+
 ## terminal
 
 version>=8.1
@@ -80,6 +82,12 @@ https://vi.stackexchange.com/questions/7722/how-to-debug-a-mapping
 
 https://stackoverflow.com/questions/24842063/how-to-search-in-the-vim-mapping-listing
 
+## map
+
+https://www.rockyourcode.com/vim-trick-map-ctrl-s-to-save/
+
+stty -ixon
+
 ## browser web
 
 https://github.com/browsh-org/browsh
@@ -98,8 +106,12 @@ run code in split window
 save current file, after running code, turn to insert mode
 
 ## Plugins
+plugin manager
+  https://www.rockyourcode.com/installing-and-managing-vim-plugins-with-vim-packager/
 
 https://github.com/mileszs/ack.vim
+snippet
+autocomplement
 
 NERDTree
 
