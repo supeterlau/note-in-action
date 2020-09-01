@@ -37,6 +37,7 @@ https://ccrma.stanford.edu/guides/package/emacs/emacs.html
 C-h 帮助
 C-h k
 C-h f
+C-h l keys history
 
 - move cursor
 
@@ -92,13 +93,17 @@ M-% oldstring <CR> newstring <CR>
 - copy paste
 
 M-w copy
-C-k cut line
+C-k cut line 剪切光标到行尾
 C-y paste
 C-w cut region
 C-spc set mark ( C-@ ) 与输入法切换冲突
+C-d 删除下一个字符
 
-剪切光标到行尾: C-k
-删除下一个字符: C-d
+- edit
+
+C-t 交换字符
+M-t 交换单词
+C-M-t 交换 s-expression
 
 M-; comment/uncomment
 
