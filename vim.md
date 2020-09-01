@@ -105,7 +105,10 @@ Firefox binary not found: /Applications/Firefox.app/Contents/MacOS/firefox
 run code in split window
 save current file, after running code, turn to insert mode
 
+## async based 
+
 ## Plugins
+
 plugin manager
   https://www.rockyourcode.com/installing-and-managing-vim-plugins-with-vim-packager/
 
@@ -128,3 +131,16 @@ https://vim.fandom.com/wiki/Example_vimrc
 https://vim.fandom.com/wiki/Using_marks
 
 https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
+
+https://www.vimfromscratch.com/
+
+https://www.vimfromscratch.com/articles/vim-for-ruby-and-rails-in-2019/
+
+https://www.vimfromscratch.com/articles/vim-howtos/
+
+https://learnvimscriptthehardway.stevelosh.com/
+
+https://coderwall.com/p/auy6fa/vim-get-current-file-path
+
+https://stackoverflow.com/questions/6948024/using-variables-in-a-vim-shell-command
+  execute
