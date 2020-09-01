@@ -301,7 +301,11 @@ https://rakhim.org/fastmail-setup-with-emacs-mu4e-and-mbsync-on-macos/ Fastmail 
 
 http://worace.works/2016/06/07/getting-started-with-emacs-for-ruby/ Getting Started with Emacs for Ruby · Horace Williams
 
-### packages
+## Packages
+
+- use-package
+
+https://jwiegley.github.io/use-package/keywords/ Keywords — use-package
 
 - magit
 
