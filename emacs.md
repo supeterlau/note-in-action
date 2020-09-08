@@ -74,12 +74,18 @@ C-x C-w 另存为
 C-x C-v 关闭当前缓冲区，打开新文件
 C-x i 光标处插入文件
 
-切分成两个窗口: C-x 2
-关闭其他窗口: C-x 1
-切换窗口: C-x o
+C-x 2 切分成上下两个窗口
+C-x 3 切分成左右两个窗口
+C-x 1 关闭其他窗口
+C-x 0 关闭当前窗口
+
+C-x o 切换窗口
 
 C-x C-2
 
+https://www.emacswiki.org/emacs/AutoIndentation EmacsWiki: Auto Indentation
+  C-j 总是执行 newline-and-indent
+  
 - search replace
 
 C-s pattern
