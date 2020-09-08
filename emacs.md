@@ -113,6 +113,9 @@ C-M-t 交换 s-expression
 
 M-; comment/uncomment
 
+C-o 下方新行
+C-a 上方新行
+
 Detele to beginning of line
   https://www.emacswiki.org/emacs/BackwardKillLine# EmacsWiki: Backward Kill Line
 
@@ -316,6 +319,8 @@ https://jwiegley.github.io/use-package/keywords/ Keywords — use-package
 - magit
 
 https://magit.vc/manual/magit/Getting-Started.html#Getting-Started Getting Started (Magit User Manual)
+
+- web-mode
 
 ## Online
 
